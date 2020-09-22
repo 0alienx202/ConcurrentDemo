@@ -5,6 +5,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.atomic.AtomicInteger;
 
+// CountDownLatch API https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/CountDownLatch.html
 public class Demo {
     public static void main(String[] args) {
 //        ExecutorService pool = Executors.newCachedThreadPool();
